@@ -1,1 +1,1 @@
-Hello Git
+This is temporary stash content
